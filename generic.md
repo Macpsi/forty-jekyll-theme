@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PowerBi Showcase
-image: assets/images/pic11.jpg
+image: assets/images/powerbi.jpg
 nav-menu: true
 ---
 
