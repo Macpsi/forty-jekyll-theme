@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tableau Dashboards
-image: assets/images/pic01.jpg
+image: assets/images/tableau.png
 nav-menu: true
 ---
 
