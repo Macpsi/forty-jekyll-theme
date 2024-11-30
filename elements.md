@@ -3,6 +3,7 @@ layout: page
 title: Tableau Dashboards
 image: assets/images/tableau.png
 nav-menu: false
+show_tile: false
 ---
 
 <!-- Main -->
