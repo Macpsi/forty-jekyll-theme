@@ -2,7 +2,7 @@
 layout: page
 title: Tableau Dashboards
 image: assets/images/tableau.png
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->
