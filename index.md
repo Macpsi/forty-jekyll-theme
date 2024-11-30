@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'You''re here! Feel free to browse around to learn more about my projects & hobbies!'
+landing-title: 'You''re here! Welcome to Malcolm's portfolio page.
 description: null
 image: assets/MAC04102-Enhanced.jpg
 author: null
